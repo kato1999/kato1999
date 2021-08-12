@@ -1,8 +1,3 @@
-<style>
-  p{margin-bottom:1em}
-  .set{margin-bottom:2em} 
-</style>
-
 # Github Profile
 <div class="set">
   <ul>
